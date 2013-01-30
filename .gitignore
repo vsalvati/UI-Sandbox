@@ -1,0 +1,15 @@
+/project/boot/
+/project/plugins/project
+lib_managed/
+src_managed/
+test-output/
+*.iml
+.history
+project/.DS_Store
+target/
+.idea/
+.idea_modules/
+atlassian-ide-plugin.xml
+.DS_Store
+.ensime
+*.swp
